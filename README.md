@@ -27,4 +27,7 @@ The goal is to provide insights that support a marketing strategy to convert cas
 - Marketing efforts should target casual riders with weekend promotions and membership benefits
 
 ## 📈 Full Report
-Click the HTML file above to view the full analysis.
+View the full interactive HTML analysis here:
+
+🔗 https://salvooriti.github.io/divvy-case-study/cyclistic_analysis.html
+
